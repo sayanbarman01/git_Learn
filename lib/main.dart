@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'home.dart';
 
 //hello motherfucker
+// bye motherfucker
 void main() {
   runApp(MyApp());
 }
