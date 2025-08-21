@@ -2,7 +2,11 @@ import 'package:flutter/material.dart';
 import 'home.dart';
 
 //hello motherfucker
+<<<<<<< HEAD
 // bye motherfucker
+=======
+//come mf
+>>>>>>> refs/remotes/origin/main
 void main() {
   runApp(MyApp());
 }
