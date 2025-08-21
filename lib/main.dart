@@ -4,11 +4,14 @@ import 'home.dart';
 //hello motherfucker
 // bye motherfucker
 //come mf
-void main() {
+//comment
+void main() async {
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -21,6 +24,8 @@ class MyApp extends StatelessWidget {
 }
 
 class MainScreen extends StatelessWidget {
+  const MainScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
